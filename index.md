@@ -97,8 +97,7 @@ In this section, we present for each language some statistics extracted from the
 #### Download section
 Finally, from this section you can download the corpus using the following links.
 
-[English dataset](https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/english.zip)
+[English dataset](https://github.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/english.zip)
 
-
-[Spanish dataset](https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/spanish.zip)
+[Spanish dataset](https://github.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/spanish.zip)
 
