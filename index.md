@@ -73,9 +73,6 @@ In the patients <scp><neg>without</neg> <dis>dementia</dis></scp>, significant d
 ```xml
 En pacientes <scp> <neg>sin</neg> <dis>demencia</dis></scp>, se obtienen diferencias significativas en cuanto a la situación funcional y cognitiva (índice de Barthel de 52,34±38 y test de Pfeiffer con una puntuación media de 1,48±3,2 (p<0,001)).
 ```
-You can use the [editor on GitHub](https://github.com/gildofabregat/DIANN-IBEREVAL-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
 #### Statistics
@@ -95,4 +92,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | Test         | 100  | 1284  | 20567  | 229          | 22        | 23                   |
 
 
+
+#### Download section
+https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/english.zip
+
+https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/spanish.zip
 
