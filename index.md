@@ -1,5 +1,5 @@
 ## DIANN Task - Disability annotation on documents from the biomedical domain
-
+[Original webpage](http://nlp.uned.es/diann/)
 
 >"Disabilities is an umbrella term, covering impairments, activity limitations, and participation restrictions. An impairment is a problem in body function or structure; an activity limitation is a difficulty encountered by an individual in executing a task or action; while a participation restriction is a problem experienced by an individual in involvement in life situations."
 >―― World Health Organization
@@ -76,6 +76,7 @@ En pacientes <scp> <neg>sin</neg> <dis>demencia</dis></scp>, se obtienen diferen
 
 
 #### Statistics
+In this section, we present for each language some statistics extracted from the corpus.
 
 ###### English
 
@@ -94,7 +95,10 @@ En pacientes <scp> <neg>sin</neg> <dis>demencia</dis></scp>, se obtienen diferen
 
 
 #### Download section
-https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/english.zip
+Finally, from this section you can download the corpus using the following links.
 
-https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/spanish.zip
+[English dataset](https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/english.zip)
+
+
+[Spanish dataset](https://raw.githubusercontent.com/gildofabregat/DIANN-IBEREVAL-2018/raw/master/DIANN_CORPUS/spanish.zip)
 
